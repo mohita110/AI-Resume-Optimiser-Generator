@@ -1,0 +1,16 @@
+Position: Full Stack Developer – Fintech Solutions
+
+About the Role:
+We are looking for a Full Stack Developer to build scalable fintech applications. The candidate should have hands-on experience in backend and frontend technologies, cloud platforms, and API integrations.
+
+Key Responsibilities:
+Develop and maintain fintech web applications using Java Spring Boot and React.js.
+Integrate third-party APIs and payment gateways.
+Deploy applications on AWS and manage CI/CD pipelines.
+Optimise application performance and ensure security compliance.
+
+Required Skills:
+Java, Spring Boot, React.js, REST APIs, AWS, MySQL, Git
+Experience in API integrations and payment gateways
+Knowledge of cloud deployment and CI/CD pipelines
+Strong problem-solving skills and attention to detail
